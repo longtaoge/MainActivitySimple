@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\longtaoge\Desktop\MainActivitySimple\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97fcf1aa163e41bc9045e4fc4fdb23349eb91022">
+        <dex dex="C:\Users\longtaoge\Desktop\MainActivitySimple\app\build\intermediates\pre-dexed\debug\classes_4d13e3a694daace59649271dd15934a289d3041d.jar" />
+    </item>
+    <item
+        jar="C:\Users\longtaoge\Desktop\MainActivitySimple\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\longtaoge\Desktop\MainActivitySimple\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_7cb7f6672ff0b358631e61232b0d620dd3bdfcbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\longtaoge\Desktop\MainActivitySimple\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6badb188587980e58d14ff9b30b4dd466c60911c">
+        <dex dex="C:\Users\longtaoge\Desktop\MainActivitySimple\app\build\intermediates\pre-dexed\debug\instant-run_7bc619de4a9c61ba65c0beb5b48411c3db63fad1.jar" />
+    </item>
+    <item
+        jar="C:\Users\longtaoge\Desktop\MainActivitySimple\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\longtaoge\Desktop\MainActivitySimple\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_3a7a22b0081b089ef3091fb1a9e66f8a142bf112.jar" />
+    </item>
+    <item
+        jar="E:\Android_IDE\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\longtaoge\Desktop\MainActivitySimple\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_153ed7ad97a9f4a54871bdd01418c575b4d2cda9.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cropimageview_base">#FFFFFB</color>
+    <color name="cropimageview_frame">#86C166</color>
+    <color name="cropimageview_guide">#AA86C166</color>
+    <color name="cropimageview_handle">#86C166</color>
+    <color name="cropimageview_menu_bg">#FFFFFB</color>
+    <color name="cropimageview_overlay">#AA1C1C1C</color>
+    <color name="cropimageview_text">#1C1C1C</color>
+    <declare-styleable name="CropImageView"><attr format="reference" name="imgSrc"/><attr name="cropMode"><enum name="ratio_fit_image" value="0"/><enum name="ratio_4_3" value="1"/><enum name="ratio_3_4" value="2"/><enum name="ratio_1_1" value="3"/><enum name="ratio_16_9" value="4"/><enum name="ratio_9_16" value="5"/><enum name="ratio_free" value="6"/><enum name="ratio_custom" value="7"/></attr><attr format="color" name="backgroundColor"/><attr format="color" name="overlayColor"/><attr format="color" name="frameColor"/><attr format="color" name="handleColor"/><attr format="color" name="guideColor"/><attr name="guideShowMode"><enum name="show_always" value="1"/><enum name="show_on_touch" value="2"/><enum name="not_show" value="3"/></attr><attr name="handleShowMode"><enum name="show_always" value="1"/><enum name="show_on_touch" value="2"/><enum name="not_show" value="3"/></attr><attr format="dimension" name="handleSize"/><attr format="dimension" name="touchPadding"/><attr format="dimension" name="minFrameSize"/><attr format="dimension" name="frameStrokeWeight"/><attr format="dimension" name="guideStrokeWeight"/><attr format="boolean" name="cropEnabled"/></declare-styleable>
+    <string name="app_name">simple-crop-image-example</string>
+    <string name="cancel">取消</string>
+    <string name="no_storage_card">没有找到存储卡</string>
+    <string name="not_enough_space">空间不足</string>
+    <string name="preparing_card">准备存储卡</string>
+    <string name="save">保存</string>
+    <string name="saving_image">保存图片</string>
+    <style name="CropButton">
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/selector_crop_button</item>
+    </style>
+</resources>
